@@ -1,4 +1,4 @@
-# Original 8bitfish project and inspiration
+# The origin of 8bitfish
 
 [Hackathon devpost](https://devpost.com/software/8-bitfish)
 
