@@ -1,0 +1,51 @@
+{
+  "name": "client",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@openzeppelin/contracts": "^3.4.1",
+    "@truffle/hdwallet-provider": "^1.2.2",
+    "axios": "^0.21.1",
+    "canvas": "^2.7.0",
+    "chance": "^1.1.7",
+    "file-system": "^2.2.2",
+    "firebase": "^8.3.0",
+    "form-data": "^2.3.3",
+    "merge-images": "^2.0.0",
+    "moment": "^2.29.1",
+    "node-sass": "^4.14.1",
+    "react": "16.11.0",
+    "react-dom": "16.11.0",
+    "react-helmet": "^6.1.0",
+    "react-icons": "^4.2.0",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "3.2.0",
+    "underscore": "^1.9.1",
+    "web3": "^1.2.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "dev": "netlify dev"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "netlify-cli": "^3.13.7"
+  }
+}

@@ -1,0 +1,59 @@
+img {
+  width: 200px;
+  position: relative;
+  z-index: 3;
+}
+
+.imageAccessory {
+  width: 100px;
+}
+.front {
+  width: 300px;
+  position: absolute;
+  z-index: 10;
+}
+
+.common {
+  color: #c6c6c6;
+}
+
+.uncommon {
+  color: #acd482;
+}
+
+.rare {
+  color: #6d9ad1;
+}
+
+.epic {
+  color: #c586ba;
+}
+
+.legendary {
+  color: #ffda6f;
+}
+
+.generatePage {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  /* bring your own prefixes */
+  transform: translate(-50%, -50%);
+}
+.generateButton {
+  background-color: black;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  transition-duration: 0.5s;
+}
+
+.generateButton:hover {
+  background-color: rgb(42, 42, 42);
+}
