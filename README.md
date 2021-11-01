@@ -2,8 +2,7 @@
 
 [Hackathon devpost](https://devpost.com/software/8-bitfish)
 
-
-![Uploading og.jpeg…]()
+![og](https://user-images.githubusercontent.com/72945168/139733277-c1db5950-6938-4629-83a8-673ed2786244.jpeg)
 
 ## Inspiration
 
